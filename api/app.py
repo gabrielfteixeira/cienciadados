@@ -10,7 +10,22 @@ livros = [
     },
     {
         'id':2,
-        'titulo':'Harry Potter',
+        'titulo':'Harry Potter e a Pedra Filosofal',
+        'autor':'J. K. Rowling'
+    },
+    {
+        'id':3,
+        'titulo':'Harry Potter e o Enigma do Príncipe',
+        'autor':'J. K. Rowling'
+    },
+    {
+        'id':4,
+        'titulo':'Harry Potter e as Relíquias da Morte',
+        'autor':'J. K. Rowling'
+    },
+    {
+        'id':5,
+        'titulo':'Harry Potter e a Câmara Secreta',
         'autor':'J. K. Rowling'
     },
     
