@@ -13,11 +13,7 @@ livros = [
         'titulo':'Harry Potter',
         'autor':'J. K. Rowling'
     },
-    {
-        'id':3,
-        'titulo':'Hábitos Atômicos',
-        'autor':'James Clear'
-    },
+    
 ]
 
 @app.route('/livros', methods = ['GET'])
